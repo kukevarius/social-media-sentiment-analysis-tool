@@ -6,7 +6,7 @@ To use the social media sentiment analysis tool, you will need to install the re
 
 1.  Clone the repository to your local machine.
 2.  Install the required packages by running pip install -r requirements.txt.
-3.  Set up your Twitter API credentials by creating a new app at https://developer.twitter.com/en/apps and obtaining your consumer key, consumer secret, access token, and access token secret. Alternatively, you can use other social media platforms and provide the relevant credentials in the config.ini file.
+3.  Set up your Twitter API credentials by creating a new app at https://developer.twitter.com/en/apps and obtaining your consumer key, consumer secret, access token, and access token secret.
 4.  Run the program by executing python main.py.
 
 # Usage
